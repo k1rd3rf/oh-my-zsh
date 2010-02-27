@@ -11,3 +11,5 @@ function cdp () {
     print _.dirname(_.realpath(${1}.__file__[:-1]))"
   )"
 }
+
+alias cdv='cd $WORKON_HOME'
