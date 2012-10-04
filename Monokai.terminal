@@ -74,9 +74,11 @@
 	AAAZAAAAAAAAAAAAAAAAAAAA2Q==
 	</data>
 	<key>BackgroundAlphaInactive</key>
-	<real>0.60067860401459849</real>
+	<real>0.60492684248554918</real>
+	<key>BackgroundBlur</key>
+	<real>0.046784682080924858</real>
 	<key>BackgroundBlurInactive</key>
-	<real>0.201670848540146</real>
+	<real>0.095398302023121384</real>
 	<key>BackgroundColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
