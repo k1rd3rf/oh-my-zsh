@@ -6,3 +6,5 @@ function rvm_prompt_info() {
   [[ "${rvm_prompt}x" == "x" ]] && return
   echo "${ZSH_THEME_RVM_PROMPT_PREFIX:=(}${rvm_prompt}${ZSH_THEME_RVM_PROMPT_SUFFIX:=)}"
 }
+
+
